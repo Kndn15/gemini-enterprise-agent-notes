@@ -9,7 +9,7 @@
 
 ## Complete Agent Lifecycle
 
-![lifecycle](images\lifecycle.png)
+![lifecycle](images/lifecycle.png)
 
 The series covers four major areas:
 
